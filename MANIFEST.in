@@ -1,0 +1,2 @@
+recursive-include links-web/app/templates *
+recursive-include links-web/app/static *
